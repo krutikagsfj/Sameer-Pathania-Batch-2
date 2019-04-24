@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+  }
+ h1
+ {
+   position: relative;
+   left:40%;
+ }
+  button{
+    position: relative;
+   left:40%;
+  }
+  th{
+    cursor: pointer;
+  }
